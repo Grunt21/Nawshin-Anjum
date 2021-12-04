@@ -6,14 +6,19 @@
 Welcome to my GitHub 👋
 
 
-✌️Skills💯 :- 👀 JEOPARDY CTF(Cryptography/ Steganography/ Web Exploitation/ Digital Forensic/ OSINT/ Networking)
+✌️Skills💯 :- 👀 JEOPARDY CTF( Cryptography / Steganography / Web Exploitation / Digital Forensic / OSINT / Networking )
+              
               ✅ Linux OS / Windows OS
-              🔥 HYDRA/ BURP SUITE/ WIRESHARK/ NMAP/ GOBUSTER/ METASPLOIT/ SQL INJECTION/ LFI SUITE/ NESSUS/ OPENVAS
-              ✨ TRYHACKME/ HACKTHEBOX/ PICOCTF/ HSCTF/ CTFTIME 
+              
+              🔥 HYDRA/ BURP SUITE / WIRESHARK / NMAP / GOBUSTER / METASPLOIT / SQL INJECTION / LFI SUITE / NESSUS / OPENVAS
+              
+              ✨ TRYHACKME / HACKTHEBOX / PICOCTF / HSCTF / CTFTIME 
  
  
  <A bit of what I'm>🤟 
-👉➢  Im a CTF player, A Developer. Im a Junior Pentestor, A Cyber Security Researcher.
+ 
+👉➢  Im a CTF player, A Developer. Im a Junior Pentestor, A Cyber Security Researcher. 
+
   ➢  Im a BYLC(Bangladesh Youth Leadership Center) Gradute of BBLTJ21 Batch.👈
 
 
